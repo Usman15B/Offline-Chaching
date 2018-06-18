@@ -1,4 +1,6 @@
-﻿namespace Offline_Caching
+﻿using Offline_Caching;
+
+namespace Offline
 {
     public class Fifo : Strategy
     {

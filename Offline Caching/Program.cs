@@ -1,4 +1,5 @@
 ﻿using System;
+using Offline;
 
 namespace Offline_Caching
 {

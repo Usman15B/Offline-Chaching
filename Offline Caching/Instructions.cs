@@ -1,4 +1,6 @@
-﻿namespace Offline_Caching
+﻿using Offline;
+
+namespace Offline_Caching
 {
     public static class Instructions
     {

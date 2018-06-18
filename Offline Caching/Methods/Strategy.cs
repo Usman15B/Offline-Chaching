@@ -1,4 +1,4 @@
-﻿namespace Offline_Caching
+﻿namespace Offline
 {
     public class Strategy
     {
